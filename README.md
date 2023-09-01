@@ -9,7 +9,7 @@ Task list and websites:  [Tasks](https://www.evalita.it/campaigns/evalita-2023/t
 ## Affect
 **EMit – Categorical Emotion Detection in Italian Social Media**: [Dataset](https://github.com/oaraque/emit/tree/main)
 
-**EmotivITA**: [Dataset](https://github.com/GiovanniGafa/EmoITA)
+**EmotivITA – Dimensional and Multi-dimensional emotion analysis**: [Dataset](https://github.com/GiovanniGafa/EmoITA)
 
 ## Authorship Analysis
 **PoliticIT – Political Ideology Detection in Italian Texts**: [Dataset](https://codalab.lisn.upsaclay.fr/competitions/8507#learn_the_details-get_starting_kit)
