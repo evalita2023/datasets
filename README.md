@@ -1,5 +1,5 @@
 # EVALITA 2023 Datasets
-![EVALIATA 2023]([https://i.ibb.co/C5xW4Cn/test1.jpg](https://www.evalita.it/wp-content/uploads/2021/10/EVALITA_Logo_Home-2.png))
+![EVALIATA 2023](https://www.evalita.it/wp-content/uploads/2021/10/EVALITA_Logo_Home-2.png)
 
 EVALITA provides a shared framework for the evaluation of different systems and approaches on separate tasks, all for Italian. 
 
